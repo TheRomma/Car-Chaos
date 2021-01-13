@@ -1,0 +1,17 @@
+{
+    "entities":[
+        {
+            "general":{
+                "pos":[100, 100, 0],
+                "scale":[20, 20, 1],
+                "rotation":[0, 0, 0],
+                "bounds":[20, 20, 1]
+            },
+            "graphics":{
+                "texChain":[0, 1, 2],
+                "effectId":0,
+                "extra":[0, 0]
+            }
+        }
+    ]
+}
